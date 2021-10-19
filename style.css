@@ -1,0 +1,74 @@
+h2 {color: white;} 
+h3{border: 3px blue solid;border-radius: 20px;box-shadow: 6px 6px 6px black;}
+h3{background-color: rgba(255, 0, 0, 0.5);}
+h3 {color: white;}      
+
+@media screen and (max-width: 780px)
+{
+    .content{flex-flow: column wrap;} 
+}
+
+   
+
+
+
+
+
+
+                        
+
+.nom {text-shadow: 6px 6px 6px black}
+.nom {}
+
+p {font-size: 1.3em;}
+p {font-family: arial;}
+p {font-style: italic;}
+
+.dev {text-shadow: 6px 6px 6px black;border: 3px blue double; text-align: center;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+
+h2  {background-color: rgba(255, 0, 0, 0.5);}
+h2 {border: 3px blue solid;border-radius: 20px;box-shadow: 6px 6px 6px black;}
+
+figure {border: 3px blue double;}
+
+mark{box-shadow: 6px 6px 6px black;text-align: justify;}
+
+
+h1:hover{text text-decoration: underline;}
+
+body
+{background-color: grey;}
+
+body 
+{background-image:url("")}
+body
+{background-repeat: no-repeat;}
+body
+{background-position}
+body 
+{background-attachment: fixed;}
+
+h2 {width: 50%;min-width: 400px;}
+p {width: 50%;min-width: 400px;padding: 12px;}
+
+nav {}
+
+
+section{}
+
+
+.content{display: flex;justify-content: center;align-items: center;align-content: inherit;flex-direction: initial;align-items: unset;}
+
+
+
+.cordonnées {display: inline-block;}
+
+.centre:{display: inline-block;}
+
+.competences{display: inline-block;}
+
+
+
